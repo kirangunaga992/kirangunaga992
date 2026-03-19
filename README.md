@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently a **Computer Science & Design student** focusing on building scalable cloud architecture and AI-integrated systems.
-👯 I’m looking to collaborate on **Open Source DevOps tools, Terraform modules, or Kubernetes-native applications.**
-🤝 I’m looking for help with **Mastering GitOps workflows and advanced AWS networking strategies.**
-🌱 I’m currently learning **Docker, Kubernetes, and refining my Infrastructure as Code (IaC) skills with Terraform.**
-💬 Ask me about **CI/CD pipelines, MERN stack integration, or building honeypots for cybersecurity.**
-⚡ Fun fact: I placed 3rd in the TechSprint 2025 Hackathon and I'm currently developing 'Aura'—my AI-integrated cloud project.
 
+* 🔭 I’m currently a **Computer Science & Design student** focusing on building scalable cloud architecture and AI-integrated systems.
+* 👯 I’m looking to collaborate on **Open Source DevOps tools, Terraform modules, or Kubernetes-native applications.**
+* 🤝 I’m looking for help with **Mastering GitOps workflows and advanced AWS networking strategies.**
+* 🌱 I’m currently learning **Docker, Kubernetes, and refining my Infrastructure as Code (IaC) skills with Terraform.**
+* 💬 Ask me about **CI/CD pipelines, MERN stack integration, or building honeypots for cybersecurity.**
+* ⚡ Fun fact: I placed 3rd in the TechSprint 2025 Hackathon and I'm currently developing 'Aura'—my AI-integrated cloud project.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kiranggunaga992) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kirangunaga992) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirangunaga992@gmail.com) 
